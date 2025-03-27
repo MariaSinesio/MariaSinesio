@@ -1,24 +1,51 @@
-<h1>Hello World!</h1>
+<h2>Hello World! <img src ="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xndGRld3ZjZXVlMGZ1NWZxejdvbDFmdHFya2xydzFvd2huNm85NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZCM2FuiUVflBu/giphy.gif" style="width:30px;height:0" /></h2>
+ <img align=right src="https://media.giphy.com/media/cJOaRkaZwxgYHkIueW/giphy.gif?cid=ecf05e479hudhixsgimm5dhiy0eqmxua025axdwny0z2ua75&ep=v1_stickers_related&rid=giphy.gif&ct=s" style="height:120px"/>
 
-## 🐕Sobre mim:
-Hey!Meu nome é **Maria Luiza**. Sou **estudante de programação** e sou apaixonada pelo que faço, digamos que foi amor à primeira codificada 💕.  
+  <p>👾 <em>Oi! Meu nome é Maria Luiza, tenho 18 anos e sou carioca da gema! </em> </p> 
+  <p>☕ <em>Sou uma desenvolvedora front-end curiosa, persistente e uma amante do café brasileiro. </em> </p>
+  <p>🐾 <em> Estou em constante evolução e aprendizado! Meus principais projetos são feitos pelo famoso trio: <b>CSS, HTML e Javascript</b>. </em> </p>
 
-- 👾Desenvolvedora *front-end em andamento...*
-- 🔭 Atualmente estou codando em **JavaScript, HTML e CSS**.
-- 🌱Estou aprendendo **JS** e **Python**.  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhyd3Nmd2N5NzA0cm5pd2IzZnNhZm1mNWdlNWVwZnZ6dGlvNDI5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" style="width:25px;height:20px;"/>
   
-<p> 📫 Caso queira falar comigo sobre programação(Estou sempre aberta para aprender coisas novas!), entre em contato:</p>
+<p> 📫 <em>Caso queira falar comigo sobre programação(Estou sempre aberta para aprender coisas novas!), entre em contato:</em></p>
 <div>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlrOWtjb3Q2eGQ1MWM1eHdrb3p3anliMDdxa2pheDl2bzIwbXU0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u5GxLmudnA8vK/giphy.gif" style="width:35px;height:28px;"/>
   <a href= "https://discord.com/users/1175539366895046687"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="www.linkedin.com/in/maria-sinésio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 </div>
-<br/>
-  <h2 >🐾GitHub stats:</h2> 
+ <br/>
+
+### Linguagens  <img src ="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZtd3Z5emRwem4zdTk3Znc5Z3hobHZoYXQ3NnBpdjRubXNmejRyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fx2p5nnbfKfNY0wfdE/giphy.gif" style="width:30px;height:0" />
+
+<div>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+ <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</div>
+
+### Ferramentas  <img src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGYxczVnMnM3YXc4eDYxNGFuZWQ1cnZsOTlmcTliNmRvaXFuZHJzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fH0fFC4UVaARfb5oZE/giphy.gif" style="width:30px;height:0" />
+
+<div>
+<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+</div>
+
+ 
+### Estatísticas do GitHub: 
+
 <div>
   <div>
   <a href= "https://github.com/Miaa23"> 
-    <img height=180px src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MiaSinesio&layout=normal&?count_private=true&langs_count=5&theme=cobalt&locale=pt-br"/>
+    <img height=180px src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MiaSinesio&layout=normal&?count_private=true&langs_count=5&theme=react&line_&locale=pt-br"/>
   </a>
-    <img height=180px src= https://github-readme-stats.vercel.app/api?username=MiaSinesio&show_icons=true&?count_private=true&theme=cobalt&locale=pt-br>
+    <img height=180px src= https://github-readme-stats.vercel.app/api?username=MiaSinesio&show_icons=true&?count_private=true&theme=react&line_&locale=pt-br>
   </div>
   
