@@ -17,8 +17,8 @@ Hey!Meu nome é **Maria Luiza**. Sou **estudante de programação** e sou apaixo
 <div>
   <div>
   <a href= "https://github.com/Miaa23"> 
-    <img height=180px src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Miaa23&layout=normal&?count_private=true&langs_count=5&theme=cobalt&locale=pt-br"/>
+    <img height=180px src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MiaSinesio&layout=normal&?count_private=true&langs_count=5&theme=cobalt&locale=pt-br"/>
   </a>
-    <img height=180px src= https://github-readme-stats.vercel.app/api?username=Miaa23&show_icons=true&?count_private=true&theme=cobalt&locale=pt-br>
+    <img height=180px src= https://github-readme-stats.vercel.app/api?username=MiaSinesio&show_icons=true&?count_private=true&theme=cobalt&locale=pt-br>
   </div>
   
