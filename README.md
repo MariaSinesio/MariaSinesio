@@ -38,7 +38,7 @@
 </div>
 
  
-### Estatísticas do GitHub: 
+### Estatísticas do GitHub:
 
 <div>
   <div>
