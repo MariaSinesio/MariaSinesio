@@ -5,14 +5,7 @@
   <p>☕ <em>Sou uma desenvolvedora front-end curiosa, persistente e uma amante do café brasileiro. </em> </p>
   <p>🐾 <em> Estou em constante evolução e aprendizado! Meus principais projetos são feitos pelo famoso trio: <b>CSS, HTML e Javascript</b>. </em> </p>
 
-  
-<p> 📫 <em>Caso queira falar comigo sobre programação(Estou sempre aberta para aprender coisas novas!), entre em contato:</em></p>
-<div>
-  <a href= "https://discord.com/users/1175539366895046687"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="www.linkedin.com/in/maria-sinésio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-</div>
-
-### Linguagens  <img src ="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZtd3Z5emRwem4zdTk3Znc5Z3hobHZoYXQ3NnBpdjRubXNmejRyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fx2p5nnbfKfNY0wfdE/giphy.gif" style="width:30px;height:0" />
+### Tech Stack <img src ="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZtd3Z5emRwem4zdTk3Znc5Z3hobHZoYXQ3NnBpdjRubXNmejRyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fx2p5nnbfKfNY0wfdE/giphy.gif" style="width:30px;height:0" />
 
 <div>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -21,9 +14,6 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
  <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white">
 </div>
-
-### Ferramentas  <img src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGYxczVnMnM3YXc4eDYxNGFuZWQ1cnZsOTlmcTliNmRvaXFuZHJzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fH0fFC4UVaARfb5oZE/giphy.gif" style="width:30px;height:0" />
-
 <div>
 <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
@@ -43,9 +33,9 @@
 
 <div>
   <div>
-  <a href= "https://github.com/MiaSinesio"> 
-    <img height=160px src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MiaSinesio&layout=normal&?count_private=true&langs_count=10&theme=react&line_&locale=pt-br"/>
+  <a href= "https://github.com/MariaSinesio"> 
+    <img height=160px src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSinesio&layout=normal&?count_private=true&langs_count=10&theme=react&line_&locale=pt-br"/>
   </a>
-    <img height=160px src= https://github-readme-stats.vercel.app/api?username=MiaSinesio&show_icons=true&?count_private=true&theme=react&line_&locale=pt-br>
+    <img height=160px src= https://github-readme-stats.vercel.app/api?username=MariaSinesio&show_icons=true&?count_private=true&theme=react&line_&locale=pt-br>
   </div>
   
