@@ -29,7 +29,7 @@
 <div>
   <div>
   <a href= "https://github.com/MariaSinesio"> 
-    <img height=160px src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSinesio&layout=normal&?count_private=true&langs_count=10&theme=darcula&line_&locale=pt-br"/>
+    <img height=180px src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSinesio&layout=normal&?count_private=true&langs_count=12&theme=darcula&line_&locale=pt-br"/>
   </a>
     <img height=160px src= https://github-readme-stats.vercel.app/api?username=MariaSinesio&show_icons=true&?count_private=true&theme=darcula&line_&locale=pt-br>
   </div>
