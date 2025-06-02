@@ -31,6 +31,6 @@
   <a href= "https://github.com/MariaSinesio"> 
     <img height=180px src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSinesio&layout=compact&?count_private=true&langs_count=10&theme=darcula&line_&locale=pt-br"/>
   </a>
-    <img height=180px src= https://github-readme-stats.vercel.app/api?username=MariaSinesio&show_icons=true&?count_private=true&include_all_commits=true&theme=darcula&line_&locale=pt-br>
+    <img height=180px src= https://github-readme-stats.vercel.app/api?username=MariaSinesio&show_icons=true&count_private=true&include_all_commits=true&theme=darcula&line_&locale=pt-br>
   </div>
   
