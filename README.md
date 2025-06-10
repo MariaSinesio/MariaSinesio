@@ -3,7 +3,7 @@
 
   <p>👾 <em>Oi! Meu nome é Maria Luiza, tenho 18 anos e sou carioca da gema! </em> </p> 
   <p>☕ <em>Sou uma desenvolvedora front-end curiosa, persistente e uma amante do café brasileiro. </em> </p>
-  <p>🐾 <em> Estou em constante evolução e aprendizado! Meus principais projetos são feitos pelo famoso trio: <b>CSS, HTML e Javascript</b>. </em> </p>
+  <p>🐾 <em> Estou em constante evolução e aprendizado! <b></b>. </em> </p>
 
 ### Tech Stack <img src ="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZtd3Z5emRwem4zdTk3Znc5Z3hobHZoYXQ3NnBpdjRubXNmejRyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fx2p5nnbfKfNY0wfdE/giphy.gif" style="width:30px;height:0" />
 
