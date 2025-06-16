@@ -1,7 +1,7 @@
 <h2>Hello World! <img src ="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xndGRld3ZjZXVlMGZ1NWZxejdvbDFmdHFya2xydzFvd2huNm85NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZCM2FuiUVflBu/giphy.gif" style="width:30px;height:0" /></h2>
  <img align=right src="https://media.giphy.com/media/cJOaRkaZwxgYHkIueW/giphy.gif?cid=ecf05e479hudhixsgimm5dhiy0eqmxua025axdwny0z2ua75&ep=v1_stickers_related&rid=giphy.gif&ct=s" style="height:120px"/>
 
-  <p>👾 <em>Oi! Meu nome é Maria Luiza, tenho 18 anos e sou carioca da gema! </em> </p> 
+  <p>👾 <em>Oi! Meu nome é Maria Luiza, tenho 18 anos e sou carioca da gema! </em> </p>
   <p>☕ <em>Sou uma desenvolvedora front-end curiosa, persistente e uma amante do café brasileiro. </em> </p>
   <p>🐾 <em> Estou em constante evolução e aprendizado! <b></b>. </em> </p>
 
