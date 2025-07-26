@@ -1,12 +1,12 @@
-<h2>Hello World! <img src ="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xndGRld3ZjZXVlMGZ1NWZxejdvbDFmdHFya2xydzFvd2huNm85NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZCM2FuiUVflBu/giphy.gif" style="width:30px;height:0" /></h2>
+<h3>Hello World! <img src ="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xndGRld3ZjZXVlMGZ1NWZxejdvbDFmdHFya2xydzFvd2huNm85NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZCM2FuiUVflBu/giphy.gif" style="width:30px;height:0" /></h3>
  <img align=right src="https://media.giphy.com/media/cJOaRkaZwxgYHkIueW/giphy.gif?cid=ecf05e479hudhixsgimm5dhiy0eqmxua025axdwny0z2ua75&ep=v1_stickers_related&rid=giphy.gif&ct=s" style="height:120px"/>
 
   <p>👾 <em>Oi! Meu nome é Maria Luiza, tenho 18 anos e sou carioca da gema! </em> </p>
-  <p>☕ <em>Sou uma desenvolvedora front-end curiosa, persistente e uma amante do café brasileiro. </em> </p>
+  <p>☕ <em>Sou uma desenvolvedora de software persistente e uma amante do café brasileiro. </em> </p>
   <p>🐾 <em> Estou em constante evolução e aprendizado! </em> </p>
+  <p>🦉<em> Sou uma admiradora fervorosa da área de cibersegurança e robótica. </em></p>
 
-### Tech Stack <img src ="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZtd3Z5emRwem4zdTk3Znc5Z3hobHZoYXQ3NnBpdjRubXNmejRyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fx2p5nnbfKfNY0wfdE/giphy.gif" style="width:30px;height:0" />
-
+#### Tech Stack:
 <div>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 
  
-### Estatísticas do GitHub:
+#### Estatísticas do GitHub:
 
 <div>
   <div>
@@ -33,4 +33,6 @@
   </a>
     <img height=180px src= https://github-readme-stats.vercel.app/api/?username=MariaSinesio&show_icons=true&count_private=true&theme=radical&include_all_commits=true&line_&locale=pt-br>
   </div>
+   <img align=right src ="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZtd3Z5emRwem4zdTk3Znc5Z3hobHZoYXQ3NnBpdjRubXNmejRyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fx2p5nnbfKfNY0wfdE/giphy.gif" style="width:30px;height:0" />
   
+
