@@ -29,9 +29,9 @@
 <div>
   <div>
   <a href= "https://github.com/MariaSinesio"> 
-    <img height=180px src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSinesio&layout=compact&?count_private=true&langs_count=12&theme=radical&line_&locale=pt-br"/>
+    <img height=180px src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSinesio&layout=compact&?count_private=true&langs_count=12&theme=omni&line_&locale=pt-br"/>
   </a>
-    <img height=180px src= https://github-readme-stats.vercel.app/api/?username=MariaSinesio&show_icons=true&count_private=true&theme=radical&include_all_commits=true&line_&locale=pt-br>
+    <img height=180px src= https://github-readme-stats.vercel.app/api/?username=MariaSinesio&show_icons=true&count_private=true&theme=omni&include_all_commits=true&line_&locale=pt-br>
   </div>
    <img align=right src ="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZtd3Z5emRwem4zdTk3Znc5Z3hobHZoYXQ3NnBpdjRubXNmejRyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fx2p5nnbfKfNY0wfdE/giphy.gif" style="width:30px;height:0" />
   
