@@ -1,27 +1,39 @@
 <h3>Hello World! <img src ="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xndGRld3ZjZXVlMGZ1NWZxejdvbDFmdHFya2xydzFvd2huNm85NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZCM2FuiUVflBu/giphy.gif" style="width:30px;height:0" /></h3>
- <img align=right src="https://media.giphy.com/media/cJOaRkaZwxgYHkIueW/giphy.gif?cid=ecf05e479hudhixsgimm5dhiy0eqmxua025axdwny0z2ua75&ep=v1_stickers_related&rid=giphy.gif&ct=s" style="height:120px"/>
 
-  <p>👾 <em>Oi! Meu nome é Maria Luiza, tenho 18 anos e sou carioca da gema! </em> </p>
-  <p>☕ <em>Sou uma desenvolvedora de software persistente e uma amante do café brasileiro. </em> </p>
-  <p>🐾 <em> Estou em constante evolução e aprendizado! </em> </p>
-  <p>🦉<em> Sou uma admiradora fervorosa da área de cibersegurança e robótica. </em></p>
+<div align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=0.2em&pause=1000&color=80FF00&width=435&lines=Loading+profile+.+.+.+;Acess+granted." alt="Typing SVG" /></a>
+</div>
+
+ <img align=right src="https://media.giphy.com/media/cJOaRkaZwxgYHkIueW/giphy.gif?cid=ecf05e479hudhixsgimm5dhiy0eqmxua025axdwny0z2ua75&ep=v1_stickers_related&rid=giphy.gif&ct=s" style="height:120px"/>
+  <p> <b>[1]</b> <em>Oi! Meu nome é Maria Luiza, tenho 18 anos e sou carioca da gema! </em>👾 </p>
+  <p> <b>[2]</b> <em>Sou uma desenvolvedora de software persistente e uma amante do café brasileiro. </em> </p>
+  <p><b>[3] </b> <em> Atualmente trabalho como Jovem Aprendiz em TI e faço graduação em Engenharia. </em> </p>
+  <p><b>[4]</b> <em> Sou uma admiradora fervorosa da área de cibersegurança e robótica! </em></p>
 
 #### Tech Stack:
+
 <div>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
- <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
- <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white">
-<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=F7DF1E&style=for-the-badge">
+<img src="https://img.shields.io/badge/Babel-000000?style=for-the-badge&logo=babel&logoColor=F9DC3e">
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26">
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05033">
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6">
+<img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=CC342D">
+</div>
+<div>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=6DA55F">
+<img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC">
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7">
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB">
+</div>
+<div>
+<img src="https://img.shields.io/badge/Insomnia-000000?style=for-the-badge&logo=insomnia&logoColor=5849BE">
+<img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=646CFF">
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624">
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E">
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00">
+<img src="https://img.shields.io/badge/Rails-000000?style=for-the-badge&logo=ruby-on-rails&logoColor=CC0000">
+</div>
 
  
 #### Estatísticas do GitHub:
@@ -29,10 +41,10 @@
 <div>
   <div>
   <a href= "https://github.com/MariaSinesio"> 
-    <img height=180px src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSinesio&layout=compact&?count_private=true&langs_count=12&theme=omni&line_&locale=pt-br"/>
+    <img height=180px src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSinesio&layout=compact&?count_private=true&langs_count=12&theme=chartreuse-dark&line_&locale=pt-br"/>
   </a>
-    <img height=180px src= https://github-readme-stats.vercel.app/api/?username=MariaSinesio&show_icons=true&count_private=true&theme=omni&include_all_commits=true&line_&locale=pt-br>
+    <img height=180px src= https://github-readme-stats.vercel.app/api/?username=MariaSinesio&show_icons=true&count_private=true&theme=chartreuse-dark&include_all_commits=true&line_&locale=pt-br>
   </div>
-   <img align=right src ="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZtd3Z5emRwem4zdTk3Znc5Z3hobHZoYXQ3NnBpdjRubXNmejRyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fx2p5nnbfKfNY0wfdE/giphy.gif" style="width:30px;height:0" />
+   <img align=right src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZicW96cTcxa3h3bzQyZWNtYzhoM2gxZXZ4MnQ2cG95djJsOXZ5cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Zd8PWjBCHCIAo/giphy.gif" style="width:90px;height:0" />
   
 
