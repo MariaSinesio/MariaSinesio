@@ -7,7 +7,7 @@
  <img align=right src="https://media.giphy.com/media/cJOaRkaZwxgYHkIueW/giphy.gif?cid=ecf05e479hudhixsgimm5dhiy0eqmxua025axdwny0z2ua75&ep=v1_stickers_related&rid=giphy.gif&ct=s" style="height:120px"/>
   <p> <b>[1]</b> <em>Oi! Meu nome é Maria Luiza, tenho 18 anos e sou carioca da gema! </em>👾 </p>
   <p> <b>[2]</b> <em>Sou uma desenvolvedora de software persistente e uma amante do café brasileiro. </em> </p>
-  <p><b>[3] </b> <em> Atualmente trabalho como Jovem Aprendiz em TI e faço graduação em Engenharia. </em> </p>
+  <p><b>[3] </b> <em> Atualmente trabalho como Jovem Aprendiz em TI e faço graduação em Engenharia de Computação. </em> </p>
   <p><b>[4]</b> <em> Sou uma admiradora fervorosa da área de cibersegurança e robótica! </em></p>
 
 #### Tech Stack:
