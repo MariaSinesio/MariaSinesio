@@ -36,7 +36,7 @@
 </div>
 
  
-#### <img src ="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xndGRld3ZjZXVlMGZ1NWZxejdvbDFmdHFya2xydzFvd2huNm85NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZCM2FuiUVflBu/giphy.gif" style="width:25px;height:0" /> Estatísticas do GitHub:
+#### Estatísticas do GitHub:
 
 <div>
   <div>
