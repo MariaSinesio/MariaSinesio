@@ -21,6 +21,7 @@ jobs:
 
           template: terminal
           config_display: compact
+          config_output: svg
 
 
           plugin_languages: yes
@@ -30,12 +31,24 @@ jobs:
           plugin_languages_sections: most-used
 
           plugin_lines: yes
+          plugin_stars: yes
           
           plugin_stargazers: yes
 
-          plugin_stars: yes
-
           plugin_repositories: yes
           plugin_repositories_featured: yes
+
+          extras_css: |
+           svg {
+           background-color: #000000;
+           color: #00FF00;
+           font-family: 'Courier New', monospace;
+           }
+           .text {
+           fill: #00FF00 !important;
+           }
+           .title, .label {
+           fill: #FFFFFF !important;
+           }       
 
         
