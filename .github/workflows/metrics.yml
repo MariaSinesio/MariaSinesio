@@ -19,21 +19,21 @@ jobs:
           base: header, activity, repositories
           config_timezone: America/Sao_Paulo
 
-          template: dark
+          template: terminal
           config_display: compact
 
 
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_details: percentage
           plugin_languages_limit: 8
-          plugin_languages_colors: github
           plugin_languages_sections: most-used
 
           plugin_lines: yes
-
-          plugin_activity: yes
+          
           plugin_stargazers: yes
+
+          plugin_stars: yes
 
           plugin_repositories: yes
           plugin_repositories_featured: yes
