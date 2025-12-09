@@ -33,15 +33,11 @@ jobs:
           plugin_languages_analysis_timeout: 30
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
-
-          plugin_lines: yes
-          plugin_stars: yes
-          
-          plugin_stargazers: yes
-
           plugin_repositories: yes
           plugin_repositories_featured: yes
-
+          plugin_repositories_featured_repositories:
+           MariaSinesio/carcara-project
+           MariaSinesio/IAC-Linux
           
           extras_css: |
             svg {
