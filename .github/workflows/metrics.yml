@@ -19,7 +19,7 @@ jobs:
           base: header, activity, repositories
           config_timezone: America/Sao_Paulo
 
-          template: terminal
+          template: classic
           config_display: compact
           config_output: svg
 
@@ -38,17 +38,32 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_featured: yes
 
+          
           extras_css: |
-           svg {
-           background-color: #000000;
-           color: #00FF00;
-           font-family: 'Courier New', monospace;
-           }
-           .text {
-           fill: #00FF00 !important;
-           }
-           .title, .label {
-           fill: #FFFFFF !important;
-           }       
+            svg {
+              background: #000000 !important;
+              color: #00ff00 !important;
+              font-family: "Courier New", monospace !important;
+            }
+            text, tspan {
+              fill: #00ff00 !important;
+            }
+            .header, .title, .name, .label {
+              fill: #00ff00 !important;
+              font-weight: bold;
+            }
+            .items, .field, .value {
+              fill: #00ff00 !important;
+            }
+            .gauge text {
+              fill: #00ff00 !important;
+            }
+            .gauge .bg, .gauge .fg {
+              stroke: #00ff00 !important;
+            }
+            .language-color {
+              stroke: #00ff00 !important;
+              fill: #00ff00 !important;
+            }
 
         
