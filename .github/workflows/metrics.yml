@@ -36,8 +36,8 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_featured: yes
           plugin_repositories_featured_repositories:
-           MariaSinesio/carcara-project
-           MariaSinesio/IAC-Linux
+            MariaSinesio/carcara-project
+            MariaSinesio/IAC-Linux
           
           extras_css: |
             svg {
