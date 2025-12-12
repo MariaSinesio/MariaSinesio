@@ -44,5 +44,6 @@
   </div>
   <img align="right" src="https://media.giphy.com/media/Zd8PWjBCHCIAo/giphy.gif" style="width:90px;" />
 
+  <img src="https://github-stats-alpha.vercel.app/api?username=MariaSinesio&cc=000&tc=008000&ic=fff"/>
   
 
