@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC">
 <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7">
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kalilinux&logoColor=white">
 </div>
 <div>
 <img src="https://img.shields.io/badge/Insomnia-000000?style=for-the-badge&logo=insomnia&logoColor=5849BE">
