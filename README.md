@@ -5,10 +5,11 @@
 </div>
 
  <img align=right src="https://media.giphy.com/media/cJOaRkaZwxgYHkIueW/giphy.gif?cid=ecf05e479hudhixsgimm5dhiy0eqmxua025axdwny0z2ua75&ep=v1_stickers_related&rid=giphy.gif&ct=s" style="height:100px"/>
-  <p> <b>[1]</b> <em>Oi! Meu nome é Maria Luiza, tenho 18 anos e sou carioca da gema! </em> </p>
-  <p> <b>[2]</b> <em>Sou uma desenvolvedora de software persistente e uma amante do café brasileiro. </em> </p>
-  <p><b>[3] </b> <em> Atualmente trabalho como Jovem Aprendiz em TI e faço graduação em Engenharia de Computação. </em> </p>
-  <p><b>[4]</b> <em> Sou uma admiradora fervorosa da área de cibersegurança e robótica! </em></p>
+  <p> <em> Oi! Meu nome é Maria Luiza, tenho 19 anos e sou carioca da gema!✨ </em> </p>
+  <p> <em> Sou uma desenvolvedora de software persistente e uma amante do café brasileiro.☕ </em> </p>
+  <p> <em> Atualmente trabalho como Jovem Aprendiz em TI e faço graduação em Engenharia de Computação. (E ensino nas horas vagas, rs)🧮 </em> </p>
+  <p> <em> Faço parte do GRACE-ICMC USP, um grupo que visa apoiar e democratizar o ensino na área de exatas para meninas!💖 </em> </p>
+  <p> <em> Sou uma admiradora da área de cibersegurança e robótica!💖 </em></p>
 
 #### Tech Stack:
 
@@ -35,13 +36,7 @@
 <img src="https://img.shields.io/badge/Rails-000000?style=for-the-badge&logo=ruby-on-rails&logoColor=CC0000">
 </div>
 
- 
-#### Estatísticas do GitHub:
 
-<div>
-  <div>
-  <a href= "https://github.com/MariaSinesio"> 
-  </div>
   <img align="right" src="https://media.giphy.com/media/Zd8PWjBCHCIAo/giphy.gif" style="width:90px;" />
 
 
