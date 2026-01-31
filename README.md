@@ -8,7 +8,8 @@
   <p> <em> Oi! Meu nome é Maria Luiza, tenho 19 anos e sou carioca da gema!✨ </em> </p>
   <p> <em> Sou uma desenvolvedora de software persistente e uma amante do café brasileiro.☕ </em> </p>
   <p> <em> Atualmente trabalho como Jovem Aprendiz em TI e faço graduação em Engenharia de Computação. (E ensino nas horas vagas, rs)🧮 </em> </p>
-  <p> <em> Faço parte do GRACE USP, um grupo que visa apoiar e democratizar o ensino na área de exatas para meninas!💖 (Além disso, faço parte de diversos grupos focados em mulheres nas áreas STEM, sendo muito ativa nesse meio) </em> </p>
+  <p> <em> Faço parte do GRACE USP, um grupo que visa apoiar e democratizar o ensino na área de exatas para meninas!💖 </br>
+   (Além disso, faço parte de diversos grupos focados em mulheres nas áreas STEM, sendo muito ativa nesse meio) </em> </p>
   <p> <em> Sou uma admiradora da área de cibersegurança e robótica!⭐ </em></p>
 
 #### Tech Stack:
