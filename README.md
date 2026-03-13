@@ -66,4 +66,8 @@ Passions: Cibersegurança, desenvolvimento de software, Linux
 <img src="https://komarev.com/ghpvc/?username=MariaSinesio&style=for-the-badge&abbreviated=true&color=9ACD32"/>
 </div>
 
+</br>
 
+<div align="center">
+ <img src="*/images/*"/>
+</div>
