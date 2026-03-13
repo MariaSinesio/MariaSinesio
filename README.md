@@ -32,8 +32,7 @@ Passions: Cibersegurança, desenvolvimento de software, Linux
 ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
 ```
 
-### <div align="center">Tech Stack: </div>  
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanozdmNteWpkdzk2dzZwZHBteXk0eTZ4MWVlcjBoYmNheXdrODZzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tg78WUatYcK5OQhPot/giphy.gif" style="height:100px"/>
+### <div align="center">Tech Stack: </div>
 
 <div align="center">
 <img src="https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=F7DF1E&style=for-the-badge">
