@@ -11,7 +11,7 @@ Mia2560@linux: ~/meu_readme $ fastfetch
 ```
 </br>
 
- <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanozdmNteWpkdzk2dzZwZHBteXk0eTZ4MWVlcjBoYmNheXdrODZzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tg78WUatYcK5OQhPot/giphy.gif" style="height:200px"/>
+ <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanozdmNteWpkdzk2dzZwZHBteXk0eTZ4MWVlcjBoYmNheXdrODZzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tg78WUatYcK5OQhPot/giphy.gif" style="height:150px"/>
 
 
 ```sh
