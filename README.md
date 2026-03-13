@@ -1,18 +1,39 @@
 
 
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=0.2em&pause=1000&color=80FF00&width=435&lines=Loading+profile+.+.+.+;Access+granted." alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=0.2em&pause=1000&color=9ACD32&width=435&lines=Loading+profile+.+.+.+;Access+granted." alt="Typing SVG" /></a> <img align="right" src="https://media.giphy.com/media/Zd8PWjBCHCIAo/giphy.gif" style="width:50px;" />
 </div>
 
- <img align=right src="https://media.giphy.com/media/cJOaRkaZwxgYHkIueW/giphy.gif?cid=ecf05e479hudhixsgimm5dhiy0eqmxua025axdwny0z2ua75&ep=v1_stickers_related&rid=giphy.gif&ct=s" style="height:100px"/>
-  <p> <em> Oi! Meu nome é Maria Luiza, tenho 19 anos e sou carioca da gema!✨ </em> </p>
-  <p> <em> Sou uma desenvolvedora de software persistente e uma amante do café brasileiro.☕ </em> </p>
-  <p> <em> Atualmente trabalho como Jovem Aprendiz em TI e faço graduação em Engenharia de Computação. (E ensino nas horas vagas, rs)🧮 </em> </p>
-  <p> <em> Faço parte do GRACE USP, um grupo que visa apoiar e democratizar o ensino na área de exatas para meninas!💖 </br>
-   (Além disso, faço parte de diversos grupos focados em mulheres nas áreas STEM, sendo muito ativa nesse meio) </em> </p>
-  <p> <em> Sou uma admiradora da área de cibersegurança e robótica!⭐ </em></p>
+</br>
 
-#### Tech Stack:
+```zsh
+Mia2560@linux: ~/meu_readme $ fastfetch
+```
+</br>
+
+ <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanozdmNteWpkdzk2dzZwZHBteXk0eTZ4MWVlcjBoYmNheXdrODZzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tg78WUatYcK5OQhPot/giphy.gif" style="height:300px"/>
+
+
+```csharp
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+
+Username: Mia
+WhoamI: Sou estudante de Eng. da computação, sou carioca,
+também sou representante GRACE-USP, assim como faço parte de
+outro grupos stem, além disso, amo café e sou aprendiz de TI.
+OS: Windows 11, xp, Fedora, Kali, etc.
+Hobbies: Desenhar, pintar, crochê, robótica, estudar, etc.
+(Sou movida pela curiosidade).      
+Games: Stardew Valley, Resident Evil, The Sims(3,4), Geoguesr
+Passions: Cibersegurança, desenvolvimento de software, Linux
+, DevOps, Redes, Hardware.
+
+⚡︎ ᝰ.ᐟ ─────────────── Obrigada por ler ─────────────── .ᐟᝰ ⚡︎
+
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+```
+
+### <div align="center">Tech Stack: </div>
 
 <div>
 <img src="https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=F7DF1E&style=for-the-badge">
@@ -39,8 +60,10 @@
 </div>
 
 
-  <img align="right" src="https://media.giphy.com/media/Zd8PWjBCHCIAo/giphy.gif" style="width:90px;" />
+### <div align="center">Contador de visitas: </div>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=MariaSinesio&style=for-the-badge&abbreviated=true&color=9ACD32"/>
+</div>
 
-  
 
