@@ -69,5 +69,5 @@ Passions: Cibersegurança, desenvolvimento de software, Linux
 </br>
 
 <div align="center">
- <img src="*/images/*"/>
+ <img src="/images/image.jpg"/>
 </div>
