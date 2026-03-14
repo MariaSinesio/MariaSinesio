@@ -11,10 +11,10 @@ Mia2560@linux: ~/meu_readme $ fastfetch
 ```
 </br>
 
-<img align="right" src="https://media.giphy.com/media/Zd8PWjBCHCIAo/giphy.gif" style="width:150px;" />
+<img align="right" src="https://media.giphy.com/media/Zd8PWjBCHCIAo/giphy.gif" style="width:130px;" />
 
 ```sh
-﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
 
 Username: Mia
 WhoamI: Sou estudante de Eng. da computação, sou carioca,
@@ -26,9 +26,9 @@ Hobbies: Desenhar, pintar, crochê, robótica, estudar, etc.
 Passions: Cibersegurança, desenvolvimento de software, Linux
 , DevOps, Redes, Hardware.
 
-⚡︎ ᝰ.ᐟ ─────────────── Obrigada por ler ─────────────── .ᐟᝰ ⚡︎
+⚡︎ ᝰ.ᐟ ─────────────────── Obrigada por ler ──────────────────── .ᐟᝰ ⚡︎
 
-﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
 ```
 
 ### <div align="center">Tech Stack: </div>
