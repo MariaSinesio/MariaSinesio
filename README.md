@@ -1,7 +1,7 @@
 
 
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=0.2em&pause=1000&color=9ACD32&width=435&lines=Loading+profile+.+.+.+;Access+granted." alt="Typing SVG" /></a> <img align="right" src="https://media.giphy.com/media/Zd8PWjBCHCIAo/giphy.gif" style="width:50px;" />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=0.2em&pause=1000&color=9ACD32&width=435&lines=Loading+profile+.+.+.+;Access+granted." alt="Typing SVG" /></a> 
 </div>
 
 </br>
@@ -11,7 +11,7 @@ Mia2560@linux: ~/meu_readme $ fastfetch
 ```
 </br>
 
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanozdmNteWpkdzk2dzZwZHBteXk0eTZ4MWVlcjBoYmNheXdrODZzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tg78WUatYcK5OQhPot/giphy.gif" style="height:150px"/>
+<img align="right" src="https://media.giphy.com/media/Zd8PWjBCHCIAo/giphy.gif" style="width:200px;" />
 
 ```sh
 ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
