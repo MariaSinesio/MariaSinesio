@@ -22,8 +22,7 @@ também sou representante GRACE-USP, assim como faço parte de
 outro grupos stem, além disso, amo café e sou aprendiz de TI.
 OS: Windows 11, xp, Fedora, Kali, etc.
 Hobbies: Desenhar, pintar, crochê, robótica, estudar, etc.
-(Sou movida pela curiosidade).      
-Games: Stardew Valley, Resident Evil, The Sims(3,4), Geoguesr
+(Sou movida pela curiosidade).
 Passions: Cibersegurança, desenvolvimento de software, Linux
 , DevOps, Redes, Hardware.
 
