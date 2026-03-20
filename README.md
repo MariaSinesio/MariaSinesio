@@ -19,7 +19,8 @@ Mia2560@linux: ~/meu_readme $ fastfetch
 Username: Mia
 WhoamI: Sou estudante de Eng. da computação, sou carioca,
 também sou representante GRACE-USP, assim como faço parte de
-outro grupos stem, além disso, amo café e sou aprendiz de TI.
+outro grupos stem, sou aprendiz de TI e, fora isso, amo café e
+tenho contato com tecnologia desde os 13 anos (Bot no Discord)
 OS: Windows 11, xp, Fedora, Kali, etc.
 Hobbies: Desenhar, pintar, crochê, robótica, estudar, etc.
 (Sou movida pela curiosidade).
