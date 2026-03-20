@@ -14,7 +14,7 @@ Mia2560@linux: ~/meu_readme $ fastfetch
 <img align="right" src="https://media.giphy.com/media/Zd8PWjBCHCIAo/giphy.gif" style="width:80px;" />
 
 ```sh
-﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
 
 Username: Mia
 WhoamI: Sou estudante de Eng. da computação, sou carioca,
@@ -28,7 +28,7 @@ Passions: Cibersegurança, desenvolvimento de software, Linux
 
 ⚡︎ ᝰ.ᐟ ─────────────────── Obrigada por ler ──────────────────── .ᐟᝰ ⚡︎
 
-﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
 ```
 
 ### <div align="center">Tech Stack: </div>
