@@ -17,8 +17,8 @@ Mia2560@linux: ~/meu_readme $ fastfetch
 ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
 
 Username: Mia
-WhoamI: Sou estudante de Eng. da computação, sou carioca,
-também sou representante GRACE-USP, assim como faço parte de
+WhoamI: Sou estudante de Eng. da computação, carioca,
+representante GRACE-USP, assim como faço parte de
 outro grupos stem, sou aprendiz de TI, fiz alguns freela,
 tenho contato com tecnologia desde os 13 anos (Bot no Discord)
 e, fora isso, amo café. (Isso é tudo, pessoal!)
