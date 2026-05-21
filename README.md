@@ -20,11 +20,12 @@ Username: Mia
 WhoamI: Sou estudante de Eng. da computação, carioca,
 representante GRACE-USP, assim como faço parte de
 outro grupos stem, sou aprendiz de TI, fiz alguns freela,
+estou iniciando na área de pesquisa,
 tenho contato com tecnologia desde os 13 anos (Bot no Discord)
 e, fora isso, amo café. (Isso é tudo, pessoal!)
 OS: Windows 11, xp, Fedora, Kali, etc.
 Hobbies: Desenhar, pintar, crochê, robótica, estudar, etc.
-(Sou movida pela curiosidade).
+(Sou uma pessoa curiosa).
 Passions: Cibersegurança, desenvolvimento de software, Linux
 , DevOps, Redes, Hardware.
 
