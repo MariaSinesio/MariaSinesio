@@ -1,4 +1,4 @@
-
+<img align="right" src="https://media.giphy.com/media/Zd8PWjBCHCIAo/giphy.gif" style="width:80px;" />
 
 <div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=0.2em&pause=1000&color=9ACD32&width=435&lines=Loading+profile+.+.+.+;Access+granted." alt="Typing SVG" /></a> 
@@ -11,7 +11,6 @@ Mia2560@linux: ~/meu_readme $ fastfetch
 ```
 </br>
 
-<img align="right" src="https://media.giphy.com/media/Zd8PWjBCHCIAo/giphy.gif" style="width:80px;" />
 
 ```sh
 ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
@@ -35,6 +34,7 @@ Passions: Cibersegurança, desenvolvimento de software, Linux
 ```
 
 ### <div align="center">Tech Stack: </div>
+
 
 <div align="center">
 <img src="https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=F7DF1E&style=for-the-badge">
