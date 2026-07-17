@@ -25,7 +25,7 @@ e, fora isso, amo café. (Isso é tudo, pessoal!)
 OS: Windows 11, xp, Fedora, Kali, etc.
 Hobbies: Desenhar, pintar, crochê, robótica, estudar, etc.
 (Sou uma pessoa curiosa).
-Passions: Cibersegurança, desenvolvimento de software, Linux
+Passions: Cibersegurança, Engenharia de software, Linux
 , DevOps, Redes, Hardware.
 
 ⚡︎ ᝰ.ᐟ ─────────────────── Obrigada por ler ──────────────────── .ᐟᝰ ⚡︎
