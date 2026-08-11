@@ -22,7 +22,7 @@ outro grupos stem, sou aprendiz de TI, fiz alguns freela,
 estou iniciando na área de pesquisa,
 tenho contato com tecnologia desde os 13 anos (Bot no Discord)
 e, fora isso, amo café. (Isso é tudo, pessoal!)
-OS: Windows 11, xp, Fedora, Kali, etc.
+OS: Fedora, Kali, Ubuntu, Windows 11, xp, etc.
 Hobbies: Desenhar, pintar, crochê, robótica, estudar, etc.
 (Sou uma pessoa curiosa).
 Passions: Cibersegurança, Engenharia de software, Linux
