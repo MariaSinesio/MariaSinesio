@@ -25,7 +25,7 @@ OS: Fedora, Kali, Ubuntu, Windows 11, xp, etc.
 Hobbies: Desenhar, pintar, crochê, robótica, estudar, etc.
 (Sou uma pessoa curiosa).
 Passions: Cibersegurança, Engenharia de software, Linux
-, DevOps, Redes, Hardware.
+, DevOps, sistemas inteligentes, Iot, Redes, Hardware.
 
 ⚡︎ ᝰ.ᐟ ─────────────────── Obrigada por ler ──────────────────── .ᐟᝰ ⚡︎
 
