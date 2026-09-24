@@ -16,16 +16,20 @@ Mia2560@linux: ~/meu_readme $ fastfetch
 ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
 
 Username: Mia
-WhoamI: Sou estudante de Eng. da computação, carioca,
+WhoamI: Oii, sou estudante de Eng. da computação, carioca,
 representante GRACE-USP, assim como faço parte de
 outro grupos stem, sou aprendiz de TI, entusiasta da
-área de pesquisa, tenho contato com tecnologia desde
-os 13 anos e, fora isso, amo café. (Isso é tudo, pessoal!)
+área de pesquisa e de vez em quando escrevendo artigos afim
+de publicar, tenho contato com tecnologia desde os 13 anos,
+não sou uma sabe tudo não, mas sou muitoo esforçada,
+sempre buscando conciliar tudo que faço e tirar uma lição nova
+cada dia, fora isso, amo cafeína. (Isso é tudo, pessoal!)
 OS: Fedora, Kali, Ubuntu, Windows 11, xp, etc.
 Hobbies: Desenhar, pintar, crochê, robótica, estudar, etc.
 (Sou uma pessoa curiosa).
 Passions: Cibersegurança, Engenharia de software, Linux
-, DevOps, sistemas inteligentes, Iot, Redes, Hardware, Suporte.
+, DevOps, sistemas inteligentes, Iot, Redes, Hardware,
+Suporte.
 
 ⚡︎ ᝰ.ᐟ ─────────────────── Obrigada por ler ──────────────────── .ᐟᝰ ⚡︎
 
