@@ -21,7 +21,7 @@ representante GRACE-USP, assim como faço parte de
 outro grupos stem, sou aprendiz de TI, entusiasta da
 área de pesquisa e de vez em quando escrevendo artigos afim
 de publicar, tenho contato com tecnologia desde os 13 anos,
-não sou uma sabe tudo não, mas sou muitoo esforçada,
+não sou uma sabe tudo não, mas sou muitoo diligente,
 sempre buscando conciliar tudo e tirar uma lição nova
 cada dia, fora isso, amo cafeína. (Isso é tudo, pessoal!)
 OS: Fedora, Kali, Ubuntu, Windows 11, xp, etc.
